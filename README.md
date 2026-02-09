@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongs741)](https://solved.ac/jeongs741) [![GitHub Streak](https://streak-stats.demolab.com/?user=yotan95&theme=dark)](https://git.io/streak-stats)
+
+* [포트폴리오](https://www.notion.so/AI-1bcf38ea5ce18004abd3d5f033df6bd8?source=copy_link)
 <!--
 **yotan95/yotan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
